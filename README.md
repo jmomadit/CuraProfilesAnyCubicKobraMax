@@ -27,7 +27,7 @@ To use these configuration files, you need to place them in the correct director
    - Replace `$CURA_VERSION` with the version of Cura you are using (e.g., `5.1`).
 
 3. **Copy the files**:
-   - Copy all the configuration files from this repository into the `$HOME/.local/share/cura/$CURA_VERSION/settings/` directory.
+   - Copy all the configuration files from this repository into the `$HOME/.local/share/cura/$CURA_VERSION/settings/` directory. Make sure to backup existing configs.
 
 4. **Restart Cura**:
    - After copying the files, restart Cura. The new printer profiles and settings should now be available under the printer settings.
