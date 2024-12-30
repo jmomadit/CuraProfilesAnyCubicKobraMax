@@ -24,7 +24,7 @@ To use these configuration files, you need to place them in the correct director
      $HOME/.local/share/cura/$CURA_VERSION/settings/
      ```
 
-   - Replace `$CURA_VERSION` with the version of Cura you are using (e.g., `cura-5.1`).
+   - Replace `$CURA_VERSION` with the version of Cura you are using (e.g., `5.1`).
 
 3. **Copy the files**:
    - Copy all the configuration files from this repository into the `$HOME/.local/share/cura/$CURA_VERSION/settings/` directory.
