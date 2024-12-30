@@ -1,6 +1,6 @@
 # Anycubic Kobra Max Cura Config Files
 
-This repository contains custom Cura configuration files for the **Anycubic Kobra Max** 3D printer. The settings are based on personal experiments using **PLA** and **PETG** filaments, with a primary focus on a **0.8mm nozzle**. These configuration files are optimized to improve print quality and efficiency for the mentioned filaments and nozzle size.
+This repository contains custom Cura configuration files for the **Anycubic Kobra Max** 3D printer. The settings are based on the Creality Cr10 profile doing some adjustments and personal experiments using **PLA** and **PETG** filaments, with a primary focus on a **0.8mm nozzle**. These configuration files are optimized to improve print quality and efficiency for the mentioned filaments and nozzle size.
 
 ## Printer and Filament Information
 
