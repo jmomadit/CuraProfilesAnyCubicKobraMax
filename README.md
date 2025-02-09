@@ -20,11 +20,14 @@ To use these configuration files, you need to place them in the correct director
 2. **Find the Cura settings directory**:
    - The configuration files need to be placed in the settings directory for Cura, which is located in the following path:
    
-Linux:
+   Linux:
+
      ```
      $HOME/.local/share/cura/$CURA_VERSION/settings/
      ```
-Windows:
+   
+   Windows:
+   
      ```
      $USER$\AppData\Roaming\cura\$CURA_VERSION$\
      ```
