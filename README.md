@@ -18,7 +18,7 @@ To use these configuration files, you need to place them in the correct director
    - You can download the config files by either cloning this repository using Git, or downloading the ZIP file and extracting it.
 
 2. **Find the Cura settings directory**:
-   - The configuration files need to be placed in the settings directory for Cura, which is located in the following path:
+   - The configuration files need to be placed in the settings directory for Cura, which is located in the following path (replace `CURA_VERSION` with the version of Cura you are using, e.g. `5.9`):
    
    Linux:
 
@@ -29,12 +29,9 @@ To use these configuration files, you need to place them in the correct director
    Windows:
    
      ```
-     $USER$\AppData\Roaming\cura\$CURA_VERSION$\
+     %APPDATA%\cura\%CURA_VERSION%\
      ```
    
-
-   - Replace `$CURA_VERSION` with the version of Cura you are using (e.g., `5.9`).
-
 3. **Copy the files**:
    - Copy all the configuration files from this repository into the `$HOME/.local/share/cura/$CURA_VERSION/settings/` directory. Make sure to backup existing configs.
 
